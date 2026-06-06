@@ -1,5 +1,7 @@
 ![nanobot README cover](./images/readme-cover.png)
 
+> Fork of [HKUDS/nanobot](https://github.com/HKUDS/nanobot). Synced to upstream main as of 2026-06-06 (v0.2.1 + 10 commits). See [Releases](https://github.com/angri450/nanobot/releases) for sync snapshots.
+
 <div align="center">
   <p>
     <a href="https://nanobot.wiki/docs/latest/getting-started/nanobot-overview">English</a> |
